@@ -7,7 +7,7 @@ A simple **Gemini AI clone** built with React. Users can input prompts, get resp
 
 ## Live Demo
 
-Check out the live project here:
+Check out the live project here: https://gemini-clone-bay-delta.vercel.app/
 
 ---
 
